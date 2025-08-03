@@ -32,19 +32,7 @@
 
 ---
 
-## 📂 Featured Projects
 
-### **[Call Center Trend Analysis Dashboard](#)**
-- Analyzed call trends (answered, abandoned) using **Excel & Power BI**  
-- Built dashboards for **long-term trend monitoring and insights**  
-
-### **[Cricket Analysis](#)**
-- Web-scraped cricket data for **T20 World Cup 2022 player performance**  
-- Built Power BI dashboards for **best 11 players selection**  
-
-### **[E-commerce Sales Analysis](#)**
-- Analyzed **sales performance and profitability trends**  
-- Identified **high-growth markets & top product categories**  
 
 ---
 
